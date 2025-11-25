@@ -1,12 +1,11 @@
 # 👋 Hey, I'm *deadshot*
 
 ## 🚀 What I'm building
-- 💡 Currently hacking on: **TaskFlow**  
-- 🔥 My playgrounds: backend, automation, scripts that save me time  
+- 💡 Currently working on: **TaskFlow** 
 
 ## 🧰 Tech stack
-- **Luau** – main playground, I own it  
-- **Python** – getting stuff done  
+- **Python** – main playground, I own it  
+- **Luau** – getting stuff done  
 - **JS** – quick fixes, clean code later  
 - **React Native** – basics, but I dive in when needed  
 - **Flask** – warming up, soon dominating  
