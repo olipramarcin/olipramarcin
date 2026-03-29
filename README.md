@@ -1,13 +1,8 @@
 # 👋 Hey, I'm *deadshot*
 
-## 🚀 What I'm building
-- 💡 Currently working on: **TaskFlow** 
-
 ## 🧰 Tech stack
 - **Python** – main playground, I own it  
-- **Luau** – getting stuff done  
-- **JS** – quick fixes, clean code later  
-- **React Native** – basics, but I dive in when needed  
+- **Luau** – getting stuff done   
 - **Flask** – warming up, soon dominating  
 
 ## ⚡ How I work
@@ -25,6 +20,6 @@
 
 ## 📬 Contact
 - **Discord:** deadshvt339  
-- **Email:** olipramarcin@gmail.com  
+- **Email:** olipramarcin@gmail.com
 
-> ⚠️ If my code sucks – open an issue, I don’t have ego about pull requests.
+> Better late than never...
